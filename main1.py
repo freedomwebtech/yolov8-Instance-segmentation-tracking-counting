@@ -18,11 +18,7 @@ list1=[]
 
 
 count=0
-def RGB(event, x, y, flags, param):
-    if event == cv2.EVENT_MOUSEMOVE :  
-        point = [x, y]
-        print(point)
-  
+
         
 
 def object(img):
