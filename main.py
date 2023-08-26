@@ -9,7 +9,7 @@ from tracker import*
 
 model=YOLO('yolov8s.pt')
 tracker=Tracker()
-counter=[]
+
 my_file = open("coco.txt", "r")
 data = my_file.read()
 class_list = data.split("\n")
