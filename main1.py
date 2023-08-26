@@ -4,7 +4,7 @@ import cvzone
 from tracker import*
 import numpy as np
 import glob
-from tracker import*
+
 ys = YOLOSEG("yolov8s-seg.pt")
 
 
