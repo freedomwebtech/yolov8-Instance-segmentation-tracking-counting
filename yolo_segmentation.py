@@ -1,4 +1,4 @@
-#https://pysource.com/2023/02/21/yolo-v8-segmentation
+
 from ultralytics import YOLO
 import numpy as np
 
